@@ -1,4 +1,4 @@
-<img src="img/banner.png" alt="AI banner" width="100%">
+<img src="images/banner.png" alt="AI banner" width="100%">
 
 
 <h1 align="center">
